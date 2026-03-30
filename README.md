@@ -13,6 +13,7 @@
 | 🔑 Secret 名称 | 📝 格式 | ✅ 必填 |
 |---|---|---|
 | `DISCORD_ACCOUNT` | `email,password` | ✅ |
+| `PRIVATE_REPO_TOKEN` | `github_pat_xxxxxx` | ✅ |
 | `TG_BOT` | `chat_id,bot_token` | ✅ |
 | `GOST_PROXY` | `socks5://host:port` | 可选 |
 
